@@ -8,4 +8,8 @@ Algoritmos Genéticos
 httpswww.inf.ufsc.br~mauro.roisenbergine5377Cursos-ICACE-intro_apost.pdf 
 
 Redes Neurais Artificiais
-httpswww.inf.ufsc.br~j.barretotutoriaisSurvey.pdf  
+httpswww.inf.ufsc.br~j.barretotutoriaisSurvey.pdf 
+
+ 
+Exercícios de Python
+https://www.huicode.com.br/2020/09/ler-um-valor-inteiro-aceitar-somente.html

@@ -1,0 +1,15 @@
+# Faça um programa que recebendo um valor inteiro, informe se o número é positivo, negativo ou neutro.
+
+
+print('----- A dança dos números -----')
+
+x  = int(input("Informe um número para brincar: "))
+
+if x < 0:
+	print('Esse é um número negativo.')
+
+elif x == 0:
+	print('Esse é um número neutro.')
+
+elif x > 0:
+	print('Esse é um número positivo.')
